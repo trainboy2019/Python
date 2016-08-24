@@ -1,0 +1,8 @@
+consumer_key = 'Twitter'
+consumer_secret = 'Twitter'
+access_token = 'Twitter'
+access_token_secret = 'Twitter'
+fromaddr = 'email@gmail.com'
+username = 'email@gmail.com'
+password = 'Password'
+smtpserver = 'smtp.gmail.com:587'
